@@ -1,0 +1,21 @@
+
+
+
+int q3()
+{
+  int saisie;
+  scanf("%d",&saisie);
+  while(saisie > 0)
+    {
+      printf("%d ",saisie);
+    }
+
+  return 0 ;
+  
+}
+
+
+int main()
+{
+  q3();
+}
